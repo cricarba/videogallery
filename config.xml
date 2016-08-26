@@ -1,13 +1,14 @@
-   <widget id="taski.com" version="0.1">
-        <name>VideoPlayer Kids</name>
-        <description>
-            A sample VideoPlayer for kids
-        </description>
-        <author email="cristian.carvajal@live.com" href="http://twitter.com/cricarba">
-            Taski Team
-        </author>
-        <content src="index.html" />
-        <access origin="*" />
-		<icon src="icon.png" />
-        <preference name="Fullscreen" value="false" />
-    </widget>
+<widget id="taski.com" version="0.1">
+  <name>VideoPlayer Kids</name>
+  <description>
+    A sample VideoPlayer for kids
+  </description>
+  <author email="cristian.carvajal@live.com" href="http://twitter.com/cricarba">
+    CCB Team
+  </author>
+  <content src="index.html" />
+  <access origin="*" />
+  <icon src="icon.png" />
+  <preference name="Fullscreen" value="false" />
+  <preference name="android-manifest/@android:installLocation" value="auto" />
+</widget>
