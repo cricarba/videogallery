@@ -10,5 +10,5 @@
   <access origin="*" />
   <icon src="icon.png" />
   <preference name="Fullscreen" value="false" />
-  <preference name="android-manifest/@android:installLocation" value="auto" />
+ 
 </widget>
